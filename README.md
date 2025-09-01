@@ -2,7 +2,8 @@
 # About Me
 
 <h2>🔖 I'm an IT undergraduate at Sabaragamuwa University of Sri Lanka, driven to become a skilled IT professional. I'm passionate about applying my knowledge to real-world challenges and innovative projects.</h2>
-<h2>🔖 My unique background also includes a diploma in Accounting and Business and a certified course in accounting softwares, giving me a strong understanding of both the technical and business sides of a project.</h2><br> 
+<h2>🔖 My unique background also includes a diploma in Accounting and Business and a certified course in accounting softwares, giving me a strong understanding of both the technical and business sides of a project.</h2>
+
 # 🛠️<b>Tools:</b><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" /> <br>
 # 📞 Connect with Me:
