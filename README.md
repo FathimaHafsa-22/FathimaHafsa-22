@@ -9,7 +9,7 @@
 
 # 📞 Connect with Me:
 <a href="https://www.linkedin.com/in/hafsa-nafli-7310a9354/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>   <a href="https://github.com/FathimaHafsa-22" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="hafsanafli2003@gmail.com"/>
-# My PortFolio 💻
+# My Portfolio 💻
 <a href="https://fathimahafsa-22.github.io/My_Portfolio/Home_Page.html" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=pagekite&logoColor=white" alt="Portfolio" />
 </a>
