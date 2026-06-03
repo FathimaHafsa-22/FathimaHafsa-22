@@ -35,17 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=FathimaHafsa-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com/?user=FathimaHafsa-22&theme=tokyonight&hide_border=true" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathimaHafsa-22&layout=compact&theme=tokyonight&hide_border=true" />
-
 ## 📞 Connect with Me
 
 <a href="https://www.linkedin.com/in/hafsa-nafli-7310a9354/" target="_blank">
