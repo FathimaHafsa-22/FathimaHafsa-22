@@ -37,13 +37,14 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=FathimaHafsa-22&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<!-- Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=FathimaHafsa-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FathimaHafsa-22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com/?user=FathimaHafsa-22&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathimaHafsa-22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
----
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathimaHafsa-22&layout=compact&theme=tokyonight&hide_border=true" />
 
 ## 📞 Connect with Me
 
