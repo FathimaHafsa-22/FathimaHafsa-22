@@ -40,9 +40,11 @@
 <a href="https://www.linkedin.com/in/hafsa-nafli-7310a9354/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/FathimaHafsa-22" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:hafsanafli2003@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
